@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sg_midnight">#0A0B1E</color>
+    <color name="sg_violet">#8B5CF6</color>
+    <color name="sg_violet_deep">#4C1D95</color>
+    <color name="sg_magenta">#F472B6</color>
+    <color name="sg_cyan">#22D3EE</color>
+</resources>
